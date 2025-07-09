@@ -11,7 +11,8 @@ Please feel free to reach out or connect with me.
 ### Languages 
 
 ![image](https://github.com/user-attachments/assets/b751eeb9-e0db-4770-bdb2-d21b8eb15a66) ![image](https://github.com/user-attachments/assets/64313a41-ff3d-4567-9920-36dcc5077b4a) ![image](https://github.com/user-attachments/assets/b06724d9-1897-432d-994c-d35137308532) ![image](https://github.com/user-attachments/assets/e9f5e937-e892-4982-9c8f-7047a6db0012) ![image](https://github.com/user-attachments/assets/4e438950-eb00-465a-8e82-6f818c381a1e) ![image](https://github.com/user-attachments/assets/2c148c9f-0e6c-44de-9382-ac32f6229d7f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### Frameworks
 
